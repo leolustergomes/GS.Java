@@ -1,8 +1,4 @@
-/**
- * PropulsaoQuimica - herda de SistemaPropulsao.
- * Representa motores de foguete que usam combustível químico.
- * Tem resposta rápida mas consome muito combustível.
- */
+
 public class PropulsaoQuimica extends SistemaPropulsao {
 
     // Atributos específicos da propulsão química
