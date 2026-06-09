@@ -1,9 +1,5 @@
 import java.util.Scanner;
 
-/**
- * SistemaMonitoramento - Classe principal com menu interativo.
- * Integra todos os componentes: sensores, propulsão, dados da missão e alertas.
- */
 public class SistemaMonitoramento {
 
     // Instâncias dos componentes do sistema
