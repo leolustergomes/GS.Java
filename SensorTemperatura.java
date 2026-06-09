@@ -1,9 +1,5 @@
 import java.util.Random;
 
-/**
- * Sensor de Temperatura - implementa a interface Sensor.
- * Herda de ComponenteEspacial e monitora a temperatura dos módulos.
- */
 public class SensorTemperatura extends ComponenteEspacial implements Sensor {
 
     private double limiteAlerta;   // Temperatura máxima permitida (°C)
