@@ -1,7 +1,4 @@
-/**
- * Classe abstrata SistemaPropulsao - base para todos os tipos de propulsão.
- * Herda de ComponenteEspacial e define o comportamento comum dos motores.
- */
+
 public abstract class SistemaPropulsao extends ComponenteEspacial {
 
     private double potencia;       // Porcentagem de 0 a 100
