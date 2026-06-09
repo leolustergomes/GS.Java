@@ -1,9 +1,5 @@
 import java.util.Random;
 
-/**
- * Sensor de Pressão - implementa a interface Sensor.
- * Monitora a pressão interna dos módulos da estação espacial.
- */
 public class SensorPressao extends ComponenteEspacial implements Sensor {
 
     private double limiteAlerta;   // Pressão mínima segura (kPa)
