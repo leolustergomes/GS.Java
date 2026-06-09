@@ -1,8 +1,4 @@
-/**
- * Classe DadosMissao - demonstra Encapsulamento.
- * Todos os atributos são privados e protegidos por getters/setters com validação.
- * Dados sensíveis (coordenadas) são protegidos por senha.
- */
+
 public class DadosMissao {
 
     private String nomeMissao;
