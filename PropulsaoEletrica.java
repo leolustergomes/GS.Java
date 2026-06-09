@@ -1,8 +1,4 @@
-/**
- * PropulsaoEletrica - herda de SistemaPropulsao.
- * Representa motores iônicos que usam energia elétrica.
- * Baixo empuxo mas altíssima eficiência — ideal para viagens longas.
- */
+
 public class PropulsaoEletrica extends SistemaPropulsao {
 
     // Atributos específicos da propulsão elétrica
