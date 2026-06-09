@@ -1,7 +1,4 @@
-/**
- * Interface Sensor - "contrato" que todos os sensores devem cumprir.
- * Define os métodos obrigatórios para qualquer tipo de sensor.
- */
+
 public interface Sensor {
 
     // Realiza a leitura do valor atual do sensor
