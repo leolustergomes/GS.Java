@@ -1,7 +1,4 @@
-/**
- * Classe abstrata que representa um componente genérico da estação espacial.
- * Serve como "molde" para todos os componentes do sistema.
- */
+
 public abstract class ComponenteEspacial {
 
     // Atributos comuns a todos os componentes
