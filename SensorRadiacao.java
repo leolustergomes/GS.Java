@@ -1,9 +1,5 @@
 import java.util.Random;
 
-/**
- * Sensor de Radiação - implementa a interface Sensor.
- * Monitora o nível de radiação ionizante na estação espacial (em mSv/h).
- */
 public class SensorRadiacao extends ComponenteEspacial implements Sensor {
 
     private double limiteAlerta;   // Limite máximo seguro de radiação (mSv/h)
